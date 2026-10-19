@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Klicktest</string>
+    <string name="service_label">Klicktest-Mauszeiger</string>
+    <string name="service_description">Zeigt einen Mauszeiger über anderen Apps an. Über ein kleines Touchpad bewegst du ihn; Tippen klickt an der Zeigerposition, Halten macht einen langen Klick, zwei Finger scrollen. Klicktest liest keine Bildschirminhalte und sendet keine Daten.</string>
+</resources>
